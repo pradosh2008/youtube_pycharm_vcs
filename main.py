@@ -4,7 +4,7 @@ def print_hi(name):
     print(f'Hello,  {name}')
 
 def sum(a,b):
-    print(f"sum is {a+b}")
+    print(f"sum is {a-b}")
 
 def connect_to_db():
     connector = password
